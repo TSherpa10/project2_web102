@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/TSherpa10/project2-web102/blob/main/codepath_project2.gif)
+![](https://github.com/TSherpa10/project2_web102/blob/main/codepath_project2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
