@@ -10,31 +10,33 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [X] **A list of card pairs is created**
-- [X] **Clicking on the card shows the corresponding component of the information pair**
-- [X] **Clicking the next button displays a random new card**
+- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
+- [x] **A list of card pairs is created**
+- [x] **Clicking on the card shows the corresponding component of the information pair**
+- [x] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
-- [X] Cards contains images in addition to or in place of text
-- [X] Cards have different visual styles such as color based on their category
-  - [X] 'Easy' cards are green, Medium cards are yellow, and 'Hard' cards are red.
+- [x] Cards contains images in addition to or in place of text
+- [x] Cards have different visual styles such as color based on their category
+  - [x] 'Easy' cards are green, Medium cards are yellow, and 'Hard' cards are red.
 
 The following **additional** features are implemented:
 
-* [X] Included blurred background photo of indoor bouldering!
-* [X] Card flip transition.
+- [x] Included blurred background photo of indoor bouldering!
+- [x] Card flip transition.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/TSherpa10/project1-web102/blob/main/codepath_project2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap  
+
+GIF created with Kap
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
